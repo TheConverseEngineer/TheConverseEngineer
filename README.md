@@ -44,7 +44,7 @@ Check out some of my pinned projects below!
   <summary>Resume</summary>
 
   ## Education
-  - **Georgia Insititute of Technology - B.S. Computer Science (2027)**\
+  - **Georgia Insititute of Technology - B.S. Computer Science (2026)**\
    **GPA:** 4.0/4.0
     Concentration in AI/Mathematical Theory and System Architecture
 
